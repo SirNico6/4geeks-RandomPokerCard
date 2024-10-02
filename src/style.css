@@ -1,1 +1,5 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.rotate-90 {
+  transform: rotate(90deg);
+}
